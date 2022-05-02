@@ -1,0 +1,9 @@
+node_modules
+coverage
+test/tmp
+.DS_Store
+*.log
+.vscode
+.nyc_output
+tmp
+@nkduy/babel-preset-env-*.tgz
